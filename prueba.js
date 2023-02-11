@@ -8,3 +8,6 @@ var joge = 'guardo'
 var edad = 26
 var Oso = 'Meloso'
 var edad = 28
+var Jeisson = 'Buitrago'
+var edad = 24 
+var equipo = 'millonarios' 
