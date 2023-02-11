@@ -7,5 +7,5 @@ var edad = 24
 var joge = 'guardo'
 var edad = 26
 var Jeisson = 'Buitrago'
-var edad = 24 
+var edad = 24
 var equipo = 'millonarios' 
