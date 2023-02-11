@@ -4,4 +4,5 @@ var Jeronimo = 'Mesa'
 var edad = 2
 var luisa = 'Estupinan'
 var edad = 24
-
+var joge = 'guardo'
+var edad = 26
