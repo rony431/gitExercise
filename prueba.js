@@ -1,2 +1,3 @@
-var Ronald = 'Estupinan'
-var edad = 30
+var Jeisson = 'Buitrago'
+var edad = 24
+var equipo = 'millonarios'
