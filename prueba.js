@@ -1,2 +1,2 @@
-var Ronald = 'Estupinan'
-var edad = 30
+var luisa = 'Estupinan'
+var edad = 24
